@@ -41,7 +41,7 @@ For a span of seventeen weeks we were able to collect and analyze the total week
 
 The DataFrame shown below is made up from the data gathered from the 17 weeks. It is also the basis of the multi-tine graph shown afterwards.
 
-![Ride_sharing_data](Analysis/17%20Week%20Summary.png)
+![Ride_sharing_data](Analysis/17_Week_Summary.png)
 
 ![Ride_sharing_data](PyBer_fare_summary.png)
 
