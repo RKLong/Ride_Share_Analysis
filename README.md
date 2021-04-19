@@ -13,7 +13,16 @@ Scatter Plot showing Driver Count, Average Fare and Total Rides per City Type
 ![Ride_sharing_data](Analysis/Fig1.png)
 
 ### Total Rides, Total Drivers and Total Fares by City Type
-urban cities have the highest numbers in terms of total rides, total drivers and total fares by city type as seen in the Data Frame above and as shown in the three different pie charts below. In fact, in all three charts urban cities have numbers above 60% in all three categories, and in each category is greater than the numbers of the two other city types combined. 
+Urban cities have the highest numbers in terms of total rides, total drivers and total fares by city type as seen in the Data Frame above and as shown in the three different pie charts below. In fact, in all three charts urban cities have numbers above 60% in all three categories, and in each category is greater than the numbers of the two other city types combined. 
+
+Pie Chart Showing % of Total Fares by City Type 
+![Ride_sharing_data](Analysis/Fig5.png)
+
+Pie Chart Showing % of Total Rides by City Type
+![Ride_sharing_data](Analysis/Fig6.png)
+
+Pie Chart Showing % of Total Drivers by City Type
+![Ride_sharing_data](Analysis/Fig7.png)
 
 ### Average Fare per Ride and Average Fare per Driver
 Although the urban cities have the highest numbers, in terms of total ride and driver count as well as total fares by city type, the same is not true for the average Fare per Ride and Average Fare per Driver. The rural cities have higher values in these categories.
