@@ -43,7 +43,7 @@ The DataFrame shown below is made up from the data gathered from the 17 weeks. I
 
 ![Ride_sharing_data](Analysis/17_Week_Summary.png)
 
-![Ride_sharing_data](Analysis/PyBer_fare_summary.png)
+![Ride_sharing_data](Analysis/Pyber_fare_summary.png)
 
 When I was taking a look at the graph, I noticed that there was not much, in terms of similarities of whether the fares will increase or decrease in all city types, however for the week between 02/17 to 02/24 there was a significant increase in fares in ALL, city types and a decrease in fares in all city types the week after. Although the decrease was much more significant in rural and suburban cities than in the urban cities.
 
