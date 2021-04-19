@@ -5,8 +5,8 @@ The purpose of the analysis is to create a summary DataFrame of the ride-sharing
 # Results
 ## Ride Sharing Data
 The data frame that we were able to create (using the code that is also shown) shows us a summary of total rides, total drivers, total Fares, average fares per ride and per driver. The summary is also accompanied by a scatter plot that will show us the driver count, the average fare and the total rides per city .The other reults will be expleined further below.  
-![Ride_sharing_data](Resources/Theater_Outcomes_vs_Launch.png)
-![Ride_sharing_data](Resources/Theater_Outcomes_vs_Launch.png)
+![Ride_sharing_data](Analysis/pyBer_summary.png.jpeg)
+![Ride_sharing_data](Analysis/Fig1.png)
 
 ### Total Rides, Total Drivers and Total Fares by City Type
 urban cities have the highest numbers in terms of total rides, total drivers and total fares by city type as seen in the Data Frame above and as shown in the three different pie charts below. In fact, in all three charts urban cities have numbers above 60% in all three categories, and in each category is greater than the numbers of the two other city types combined. 
