@@ -28,10 +28,14 @@ Pie Chart Showing % of Total Drivers by City Type
 Although the urban cities have the highest numbers, in terms of total ride and driver count as well as total fares by city type, the same is not true for the average Fare per Ride and Average Fare per Driver. The rural cities have higher values in these categories.
 
 Using the measures of central tenndency we were able to determine that despite having the least amount of ride count, driver count and total fares, rural cities have the highest average fare per ride at $34.62 and median fare price at $37.05. 
+
 The box and whiskers plot shown below also shows us that the average fare for rides is  about $11 and $5 more per ride than the urban and suburban cities.
 
+Box and Whiskers Plot showing Ride Fare Data
+![Ride_sharing_data](Analysis/Fig3.png)
+
 Rural cities also had a much higher average fare per driver compared to the two other city types. The Average Fare per Driver is $55.49 compared to $39.50 for suburban cities and $16.57 for urban cities. 
-The box and whiskers plot shown below also shows us that 
+
 
 
 
