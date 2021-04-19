@@ -34,15 +34,16 @@ The box and whiskers plot shown below also shows us that the average fare for ri
 Box and Whiskers Plot showing Ride Fare Data
 ![Ride_sharing_data](Analysis/Fig3.png)
 
-Rural cities also had a much higher average fare per driver compared to the two other city types. The Average Fare per Driver is $55.49 compared to $39.50 for suburban cities and $16.57 for urban cities. 
-
-
-
+Rural cities also had a much higher average fare per driver compared to the two other city types. The Average Fare per Driver is $55.49 in rural cities compared to $39.50 for suburban cities and $16.57 for urban cities. 
 
 ## Total Weekly Fares for Each City Type 
 For a span of seventeen weeks we were able to collect and analyze the total weekly fares of the different city types. The urban cities consistently had the highest fares for each of the seventen weeks from which the data was collected. The order (in terms of greatest to least) did not change throughout the seventeen weeks with the order of the city types being Urban, Suburban and Rural.
 
 The DataFrame shown below is made up from the data gathered from the 17 weeks. It is also the basis of the multi-tine graph shown afterwards.
+
+![Ride_sharing_data](Analysis/17%20Week%20Summary.png)
+
+![Ride_sharing_data](PyBer_fare_summary.png)
 
 When I was taking a look at the graph, I noticed that there was not much, in terms of similarities of whether the fares will increase or decrease in all city types, however for the week between 02/17 to 02/24 there was a significant increase in fares in ALL, city types and a decrease in fares in all city types the week after. Although the decrease was much more significant in rural and suburban cities than in the urban cities.
 
