@@ -5,7 +5,11 @@ The purpose of the analysis is to create a summary DataFrame of the ride-sharing
 # Results
 ## Ride Sharing Data
 The data frame that we were able to create (using the code that is also shown) shows us a summary of total rides, total drivers, total Fares, average fares per ride and per driver. The summary is also accompanied by a scatter plot that will show us the driver count, the average fare and the total rides per city .The other reults will be expleined further below.  
+
+DataFrame Summary of Ride Sharing Data
 ![Ride_sharing_data](Analysis/pyBer_summary.png.jpeg)
+
+Scatter Plot showing Driver Count, Average Fare and Total Rides per City Type
 ![Ride_sharing_data](Analysis/Fig1.png)
 
 ### Total Rides, Total Drivers and Total Fares by City Type
