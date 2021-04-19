@@ -7,7 +7,7 @@ The purpose of the analysis is to create a summary DataFrame of the ride-sharing
 The data frame that we were able to create (using the code that is also shown) shows us a summary of total rides, total drivers, total Fares, average fares per ride and per driver. The summary is also accompanied by a scatter plot that will show us the driver count, the average fare and the total rides per city .The other reults will be expleined further below.  
 
 DataFrame Summary of Ride Sharing Data
-![Ride_sharing_data](Analysis/pyBer_summary.png.jpeg)
+![Ride_sharing_data](Analysis/pyBer_summary.png)
 
 Scatter Plot showing Driver Count, Average Fare and Total Rides per City Type
 ![Ride_sharing_data](Analysis/Fig1.png)
@@ -43,7 +43,7 @@ The DataFrame shown below is made up from the data gathered from the 17 weeks. I
 
 ![Ride_sharing_data](Analysis/17_Week_Summary.png)
 
-![Ride_sharing_data](PyBer_fare_summary.png)
+![Ride_sharing_data](Analysis/PyBer_fare_summary.png)
 
 When I was taking a look at the graph, I noticed that there was not much, in terms of similarities of whether the fares will increase or decrease in all city types, however for the week between 02/17 to 02/24 there was a significant increase in fares in ALL, city types and a decrease in fares in all city types the week after. Although the decrease was much more significant in rural and suburban cities than in the urban cities.
 
